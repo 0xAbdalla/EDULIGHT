@@ -1,0 +1,1190 @@
+[
+  {
+    "Title": "Build ASP.NET Core Web API",
+    "Description": "Udemy - Build ASP.NET Core Web API - Scratch To Finish (.NET8 API)",
+    "Price": 50,
+    "PosterURL": "Images/Courses/ASPNETAPI.PNG",
+    "Duration": 30,
+    "Level": 2,
+    "Language": 1,
+    "WelcomeMessage": "Welcome to the course!",
+    "CongratulationMessage": "Congratulations on completing the course!",
+    "sections": [
+      {
+        "Title": "Introduction",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Introduction",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/introduction_API.mp4"
+          }
+        ]
+      },
+      {
+        "Title": "Create Domain Models",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Create Domain Models",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/Create_Domain_Models.mp4"
+          }
+        ]
+      }
+    ],
+    "category_id": 4,
+    "InstructorId": "Sherif Emad",
+    "roadmap_id": 10
+  },
+  {
+    "Title": "Introduction to UI-UX",
+    "Description": "UI (User Interface) focuses on the visual and interactive elements of a product, such as buttons, colors, and layout, ensuring it is visually appealing and user-friendly. UX (User Experience), on the other hand, is about the overall journey and interaction users have with the product, emphasizing functionality, ease of use, and user satisfaction. Together, they create a seamless and enjoyable digital experience.",
+    "Price": 23.50,
+    "PosterURL": "Images/Courses/UIUX.PNG",
+    "Duration": 20,
+    "Level": 0,
+    "Language": 1,
+    "WelcomeMessage": "Welcome to the course!",
+    "CongratulationMessage": "Congratulations on completing the course!",
+    "sections": [
+      {
+        "Title": "Introduction",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Introduction",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/introduction_UIUX.mp4"
+          }
+        ]
+      },
+      {
+        "Title": "Install Figma",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Install Figma",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/Install_Figma.mp4"
+          }
+        ]
+      }
+    ],
+    "category_id": 3,
+    "InstructorId": "Reem Osama",
+    "roadmap_id": 9
+  },
+  {
+    "Title": "Fundamentals HTML",
+    "Description": "Learn the fundamentals of building responsive and accessible web pages using HTML5.",
+    "Price": 26.76,
+    "PosterURL": "Images/Courses/3.PNG",
+    "Duration": 39,
+    "Level": 0,
+    "Language": 1,
+    "WelcomeMessage": "Welcome to the course!",
+    "CongratulationMessage": "Congratulations on completing the course!",
+    "sections": [
+      {
+        "Title": "Getting Started",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Welcome & Setup",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/3.mp4"
+          }
+        ]
+      },
+      {
+        "Title": "Main Content",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Core Concepts",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/3.mp4"
+          }
+        ]
+      }
+    ],
+    "category_id": 4,
+    "InstructorId": "Ziad Mustafa",
+    "roadmap_id": 1
+  },
+  {
+    "Title": "Modern JavaScript for Beginners",
+    "Description": "Understand the core concepts of JavaScript including ES6+, DOM manipulation, and event handling.",
+    "Price": 32.94,
+    "PosterURL": "Images/Courses/4.PNG",
+    "Duration": 23,
+    "Level": 0,
+    "Language": 0,
+    "WelcomeMessage": "Welcome to the course!",
+    "CongratulationMessage": "Congratulations on completing the course!",
+    "sections": [
+      {
+        "Title": "Getting Started",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Welcome & Setup",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/4.mp4"
+          }
+        ]
+      },
+      {
+        "Title": "Main Content",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Core Concepts",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/4.mp4"
+          }
+        ]
+      }
+    ],
+    "category_id": 4,
+    "InstructorId": "Yasmin Farouk",
+    "roadmap_id": 1
+  },
+  {
+    "Title": "Advanced React & Redux",
+    "Description": "Build scalable front-end applications using React and manage state efficiently with Redux.",
+    "Price": 64.19,
+    "PosterURL": "Images/Courses/5.PNG",
+    "Duration": 33,
+    "Level": 2,
+    "Language": 1,
+    "WelcomeMessage": "Welcome to the course!",
+    "CongratulationMessage": "Congratulations on completing the course!",
+    "sections": [
+      {
+        "Title": "Getting Started",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Welcome & Setup",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/5.mp4"
+          }
+        ]
+      },
+      {
+        "Title": "Main Content",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Core Concepts",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/5.mp4"
+          }
+        ]
+      }
+    ],
+    "category_id": 4,
+    "InstructorId": "Amr Hesham",
+    "roadmap_id": 1
+  },
+  {
+    "Title": "Python for Data Analysis",
+    "Description": "Learn how to use Python libraries like Pandas and NumPy for data manipulation and analysis.",
+    "Price": 54.89,
+    "PosterURL": "Images/Courses/6.PNG",
+    "Duration": 26,
+    "Level": 1,
+    "Language": 0,
+    "WelcomeMessage": "Welcome to the course!",
+    "CongratulationMessage": "Congratulations on completing the course!",
+    "sections": [
+      {
+        "Title": "Getting Started",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Welcome & Setup",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/6.mp4"
+          }
+        ]
+      },
+      {
+        "Title": "Main Content",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Core Concepts",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/6.mp4"
+          }
+        ]
+      }
+    ],
+    "category_id": 1,
+    "InstructorId": "Hanaa Khaled",
+    "roadmap_id": 2
+  },
+  {
+    "Title": "Machine Learning with Scikit-Learn",
+    "Description": "Build predictive models using Scikit-Learn and understand fundamental ML algorithms.",
+    "Price": 28.75,
+    "PosterURL": "Images/Courses/7.PNG",
+    "Duration": 10,
+    "Level": 0,
+    "Language": 0,
+    "WelcomeMessage": "Welcome to the course!",
+    "CongratulationMessage": "Congratulations on completing the course!",
+    "sections": [
+      {
+        "Title": "Getting Started",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Welcome & Setup",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/7.mp4"
+          }
+        ]
+      },
+      {
+        "Title": "Main Content",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Core Concepts",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/7.mp4"
+          }
+        ]
+      }
+    ],
+    "category_id": 1,
+    "InstructorId": "Rami Nasser",
+    "roadmap_id": 2
+  },
+  {
+    "Title": "Flutter for Cross-Platform Apps",
+    "Description": "Create beautiful and fast mobile applications for iOS and Android using Flutter and Dart.",
+    "Price": 72.29,
+    "PosterURL": "Images/Courses/8.PNG",
+    "Duration": 13,
+    "Level": 0,
+    "Language": 0,
+    "WelcomeMessage": "Welcome to the course!",
+    "CongratulationMessage": "Congratulations on completing the course!",
+    "sections": [
+      {
+        "Title": "Getting Started",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Welcome & Setup",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/8.mp4"
+          }
+        ]
+      },
+      {
+        "Title": "Main Content",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Core Concepts",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/8.mp4"
+          }
+        ]
+      }
+    ],
+    "category_id": 4,
+    "InstructorId": "Layla Tarek",
+    "roadmap_id": 3
+  },
+  {
+    "Title": "Kotlin for Android Development",
+    "Description": "Build native Android applications using Kotlin and Jetpack components.",
+    "Price": 73.65,
+    "PosterURL": "Images/Courses/9.PNG",
+    "Duration": 40,
+    "Level": 2,
+    "Language": 1,
+    "WelcomeMessage": "Welcome to the course!",
+    "CongratulationMessage": "Congratulations on completing the course!",
+    "sections": [
+      {
+        "Title": "Getting Started",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Welcome & Setup",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/9.mp4"
+          }
+        ]
+      },
+      {
+        "Title": "Main Content",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Core Concepts",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/9.mp4"
+          }
+        ]
+      }
+    ],
+    "category_id": 4,
+    "InstructorId": "Essam Fawzy",
+    "roadmap_id": 3
+  },
+  {
+    "Title": "Ethical Hacking Fundamentals",
+    "Description": "Understand the principles of ethical hacking, penetration testing, and network vulnerabilities.",
+    "Price": 33.46,
+    "PosterURL": "Images/Courses/10.PNG",
+    "Duration": 21,
+    "Level": 2,
+    "Language": 0,
+    "WelcomeMessage": "Welcome to the course!",
+    "CongratulationMessage": "Congratulations on completing the course!",
+    "sections": [
+      {
+        "Title": "Getting Started",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Welcome & Setup",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/10.mp4"
+          }
+        ]
+      },
+      {
+        "Title": "Main Content",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Core Concepts",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/10.mp4"
+          }
+        ]
+      }
+    ],
+    "category_id": 6,
+    "InstructorId": "Noura Hany",
+    "roadmap_id": 4
+  },
+  {
+    "Title": "Network Security Essentials",
+    "Description": "Secure your infrastructure by learning the basics of firewalls, VPNs, and secure protocols.",
+    "Price": 54.45,
+    "PosterURL": "Images/Courses/11.PNG",
+    "Duration": 22,
+    "Level": 1,
+    "Language": 0,
+    "WelcomeMessage": "Welcome to the course!",
+    "CongratulationMessage": "Congratulations on completing the course!",
+    "sections": [
+      {
+        "Title": "Getting Started",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Welcome & Setup",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/11.mp4"
+          }
+        ]
+      },
+      {
+        "Title": "Main Content",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Core Concepts",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/11.mp4"
+          }
+        ]
+      }
+    ],
+    "category_id": 6,
+    "InstructorId": "Fady George",
+    "roadmap_id": 4
+  },
+  {
+    "Title": "AWS Cloud Practitioner Essentials",
+    "Description": "Get started with Amazon Web Services and cloud fundamentals, ideal for beginners.",
+    "Price": 48.94,
+    "PosterURL": "Images/Courses/12.PNG",
+    "Duration": 21,
+    "Level": 2,
+    "Language": 1,
+    "WelcomeMessage": "Welcome to the course!",
+    "CongratulationMessage": "Congratulations on completing the course!",
+    "sections": [
+      {
+        "Title": "Getting Started",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Welcome & Setup",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/12.mp4"
+          }
+        ]
+      },
+      {
+        "Title": "Main Content",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Core Concepts",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/12.mp4"
+          }
+        ]
+      }
+    ],
+    "category_id": 5,
+    "InstructorId": "Salma Ahmed",
+    "roadmap_id": 5
+  },
+  {
+    "Title": "Deploying Apps on Azure",
+    "Description": "Learn how to deploy and manage cloud applications using Microsoft Azure services.",
+    "Price": 51.26,
+    "PosterURL": "Images/Courses/34.PNG",
+    "Duration": 29,
+    "Level": 2,
+    "Language": 1,
+    "WelcomeMessage": "Welcome to the course!",
+    "CongratulationMessage": "Congratulations on completing the course!",
+    "sections": [
+      {
+        "Title": "Getting Started",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Welcome & Setup",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/34.mp4"
+          }
+        ]
+      },
+      {
+        "Title": "Main Content",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Core Concepts",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/34.mp4"
+          }
+        ]
+      }
+    ],
+    "category_id": 5,
+    "InstructorId": "Bassam Youssef",
+    "roadmap_id": 5
+  },
+  {
+    "Title": "Intro to Unity Game Engine",
+    "Description": "Create 2D and 3D games using Unity and understand the basics of game physics and scripting.",
+    "Price": 36.0,
+    "PosterURL": "Images/Courses/21.PNG",
+    "Duration": 26,
+    "Level": 2,
+    "Language": 0,
+    "WelcomeMessage": "Welcome to the course!",
+    "CongratulationMessage": "Congratulations on completing the course!",
+    "sections": [
+      {
+        "Title": "Getting Started",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Welcome & Setup",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/21.mp4"
+          }
+        ]
+      },
+      {
+        "Title": "Main Content",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Core Concepts",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/21.mp4"
+          }
+        ]
+      }
+    ],
+    "category_id": 4,
+    "InstructorId": "Rania Adel",
+    "roadmap_id": 6
+  },
+  {
+    "Title": "C# for Game Programming",
+    "Description": "Learn to program games with C# and build game mechanics, animations, and controls.",
+    "Price": 60.36,
+    "PosterURL": "Images/Courses/22.PNG",
+    "Duration": 37,
+    "Level": 0,
+    "Language": 0,
+    "WelcomeMessage": "Welcome to the course!",
+    "CongratulationMessage": "Congratulations on completing the course!",
+    "sections": [
+      {
+        "Title": "Getting Started",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Welcome & Setup",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/22.mp4"
+          }
+        ]
+      },
+      {
+        "Title": "Main Content",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Core Concepts",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/22.mp4"
+          }
+        ]
+      }
+    ],
+    "category_id": 4,
+    "InstructorId": "Khaled Anwar",
+    "roadmap_id": 6
+  },
+  {
+    "Title": "Deep Learning with TensorFlow",
+    "Description": "Design and train neural networks using TensorFlow for image and text processing.",
+    "Price": 40.59,
+    "PosterURL": "Images/Courses/27.PNG",
+    "Duration": 25,
+    "Level": 0,
+    "Language": 0,
+    "WelcomeMessage": "Welcome to the course!",
+    "CongratulationMessage": "Congratulations on completing the course!",
+    "sections": [
+      {
+        "Title": "Getting Started",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Welcome & Setup",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/27.mp4"
+          }
+        ]
+      },
+      {
+        "Title": "Main Content",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Core Concepts",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/27.mp4"
+          }
+        ]
+      }
+    ],
+    "category_id": 1,
+    "InstructorId": "Mona Ibrahim",
+    "roadmap_id": 7
+  },
+  {
+    "Title": "Natural Language Processing Basics",
+    "Description": "Explore NLP techniques such as tokenization, sentiment analysis, and text classification.",
+    "Price": 45.48,
+    "PosterURL": "Images/Courses/28.PNG",
+    "Duration": 35,
+    "Level": 0,
+    "Language": 1,
+    "WelcomeMessage": "Welcome to the course!",
+    "CongratulationMessage": "Congratulations on completing the course!",
+    "sections": [
+      {
+        "Title": "Getting Started",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Welcome & Setup",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/28.mp4"
+          }
+        ]
+      },
+      {
+        "Title": "Main Content",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Core Concepts",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/28.mp4"
+          }
+        ]
+      }
+    ],
+    "category_id": 1,
+    "InstructorId": "Ehab Tamer",
+    "roadmap_id": 7
+  },
+  {
+    "Title": "Figma for UI Design",
+    "Description": "Design engaging user interfaces using Figma and understand visual hierarchy and spacing.",
+    "Price": 46.03,
+    "PosterURL": "Images/Courses/25.PNG",
+    "Duration": 24,
+    "Level": 1,
+    "Language": 0,
+    "WelcomeMessage": "Welcome to the course!",
+    "CongratulationMessage": "Congratulations on completing the course!",
+    "sections": [
+      {
+        "Title": "Getting Started",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Welcome & Setup",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/25.mp4"
+          }
+        ]
+      },
+      {
+        "Title": "Main Content",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Core Concepts",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/25.mp4"
+          }
+        ]
+      }
+    ],
+    "category_id": 3,
+    "InstructorId": "Dalia Sami",
+    "roadmap_id": 9
+  },
+  {
+    "Title": "User Research & Prototyping",
+    "Description": "Learn the UX design process from user research to wireframing and usability testing.",
+    "Price": 48.83,
+    "PosterURL": "Images/Courses/26.PNG",
+    "Duration": 30,
+    "Level": 0,
+    "Language": 1,
+    "WelcomeMessage": "Welcome to the course!",
+    "CongratulationMessage": "Congratulations on completing the course!",
+    "sections": [
+      {
+        "Title": "Getting Started",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Welcome & Setup",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/26.mp4"
+          }
+        ]
+      },
+      {
+        "Title": "Main Content",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Core Concepts",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/26.mp4"
+          }
+        ]
+      }
+    ],
+    "category_id": 3,
+    "InstructorId": "Walid Mostafa",
+    "roadmap_id": 9
+  },
+  {
+    "Title": "Node.js and Express for Beginners",
+    "Description": "Build RESTful APIs using Node.js and Express.js with MongoDB integration.",
+    "Price": 57.66,
+    "PosterURL": "Images/Courses/31.PNG",
+    "Duration": 16,
+    "Level": 2,
+    "Language": 1,
+    "WelcomeMessage": "Welcome to the course!",
+    "CongratulationMessage": "Congratulations on completing the course!",
+    "sections": [
+      {
+        "Title": "Getting Started",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Welcome & Setup",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/31.mp4"
+          }
+        ]
+      },
+      {
+        "Title": "Main Content",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Core Concepts",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/31.mp4"
+          }
+        ]
+      }
+    ],
+    "category_id": 4,
+    "InstructorId": "Heba Salah",
+    "roadmap_id": 10
+  },
+  {
+    "Title": "Building APIs with .NET Core",
+    "Description": "Develop secure and scalable APIs using ASP.NET Core and Entity Framework.",
+    "Price": 26.91,
+    "PosterURL": "Images/Courses/32.PNG",
+    "Duration": 24,
+    "Level": 0,
+    "Language": 1,
+    "WelcomeMessage": "Welcome to the course!",
+    "CongratulationMessage": "Congratulations on completing the course!",
+    "sections": [
+      {
+        "Title": "Getting Started",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Welcome & Setup",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/32.mp4"
+          }
+        ]
+      },
+      {
+        "Title": "Main Content",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Core Concepts",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/32.mp4"
+          }
+        ]
+      }
+    ],
+    "category_id": 4,
+    "InstructorId": "Samer Nabil",
+    "roadmap_id": 10
+  },
+  {
+    "Title": "AWS Cloud Practitioner Essentials",
+    "Description": "This course, AWS Cloud Practitioner Essentials, is designed to help you build solid foundations and hands-on experience.",
+    "Price": 22.5,
+    "PosterURL": "Images/Courses/43.PNG",
+    "Duration": 10,
+    "Level": 0,
+    "Language": 1,
+    "WelcomeMessage": "Welcome to the course!",
+    "CongratulationMessage": "Congratulations on completing the course!",
+    "sections": [
+      {
+        "Title": "Introduction",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Introduction to AWS Cloud Practitioner Essentials",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/43.mp4"
+          }
+        ]
+      },
+      {
+        "Title": "Main Content",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Main Concepts in AWS Cloud Practitioner Essentials",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/43.mp4"
+          }
+        ]
+      }
+    ],
+    "category_id": 5,
+    "InstructorId": "Rana Essam",
+    "roadmap_id": 5
+  },
+  {
+    "Title": "Azure Cloud Fundamentals",
+    "Description": "This course, Azure Cloud Fundamentals, is designed to help you build solid foundations and hands-on experience.",
+    "Price": 30.0,
+    "PosterURL": "Images/Courses/44.PNG",
+    "Duration": 15,
+    "Level": 0,
+    "Language": 1,
+    "WelcomeMessage": "Welcome to the course!",
+    "CongratulationMessage": "Congratulations on completing the course!",
+    "sections": [
+      {
+        "Title": "Introduction",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Introduction to Azure Cloud Fundamentals",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/44.mp4"
+          }
+        ]
+      },
+      {
+        "Title": "Main Content",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Main Concepts in Azure Cloud Fundamentals",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/44.mp4"
+          }
+        ]
+      }
+    ],
+    "category_id": 5,
+    "InstructorId": "Hisham Gamal",
+    "roadmap_id": 5
+  },
+  {
+    "Title": "Google Cloud Basics",
+    "Description": "This course, Google Cloud Basics, is designed to help you build solid foundations and hands-on experience.",
+    "Price": 30.0,
+    "PosterURL": "Images/Courses/45.PNG",
+    "Duration": 20,
+    "Level": 0,
+    "Language": 1,
+    "WelcomeMessage": "Welcome to the course!",
+    "CongratulationMessage": "Congratulations on completing the course!",
+    "sections": [
+      {
+        "Title": "Introduction",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Introduction to Google Cloud Basics",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/45.mp4"
+          }
+        ]
+      },
+      {
+        "Title": "Main Content",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Main Concepts in Google Cloud Basics",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/45.mp4"
+          }
+        ]
+      }
+    ],
+    "category_id": 5,
+    "InstructorId": "Amina Reda",
+    "roadmap_id": 5
+  },
+  {
+    "Title": "Data Analysis with Python - Beginner",
+    "Description": "This course, Exploratory Data Analysis with Python, is designed to help you build solid foundations and hands-on experience.",
+    "Price": 45.0,
+    "PosterURL": "Images/Courses/48.PNG",
+    "Duration": 10,
+    "Level": 0,
+    "Language": 1,
+    "WelcomeMessage": "Welcome to the course!",
+    "CongratulationMessage": "Congratulations on completing the course!",
+    "sections": [
+      {
+        "Title": "Introduction",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Introduction to Data Analysis - Pandas",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/48.mp4"
+          }
+        ]
+      },
+      {
+        "Title": "Main Content",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Main Concepts in Data Analysis - Pandas",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/48.mp4"
+          }
+        ]
+      }
+    ],
+    "category_id": 1,
+    "InstructorId": "Tarek Mahmoud",
+    "roadmap_id": 2
+  },
+  {
+    "Title": "Data Visualization with Tableau - Intermediate",
+    "Description": "This course, Data Visualization with Tableau, is designed to help you build solid foundations and hands-on experience.",
+    "Price": 37.5,
+    "PosterURL": "Images/Courses/46.PNG",
+    "Duration": 25,
+    "Level": 1,
+    "Language": 1,
+    "WelcomeMessage": "Welcome to the course!",
+    "CongratulationMessage": "Congratulations on completing the course!",
+    "sections": [
+      {
+        "Title": "Introduction",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Introduction to Data Visualization",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/46.mp4"
+          }
+        ]
+      },
+      {
+        "Title": "Main Content",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Main Concepts in Data Visualization",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/46.mp4"
+          }
+        ]
+      }
+    ],
+    "category_id": 1,
+    "InstructorId": "Fatima Zahra",
+    "roadmap_id": 2
+  },
+  {
+    "Title": "Python for Data Science - Advansed",
+    "Description": "This course, Python for Data Science, is designed to help you build solid foundations and hands-on experience.",
+    "Price": 45.0,
+    "PosterURL": "Images/Courses/47.PNG",
+    "Duration": 30,
+    "Level": 2,
+    "Language": 1,
+    "WelcomeMessage": "Welcome to the course!",
+    "CongratulationMessage": "Congratulations on completing the course!",
+    "sections": [
+      {
+        "Title": "Introduction",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Introduction to Python for DS",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/47.mp4"
+          }
+        ]
+      },
+      {
+        "Title": "Main Content",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Main Concepts in Python for DS",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/47.mp4"
+          }
+        ]
+      }
+    ],
+    "category_id": 1,
+    "InstructorId": "Karim Abdelrahman",
+    "roadmap_id": 2
+  },
+  {
+    "Title": "Exploratory Data Analysis with Pandas",
+    "Description": "This course, Exploratory Data Analysis with Pandas, is designed to help you build solid foundations and hands-on experience.",
+    "Price": 50.0,
+    "PosterURL": "Images/Courses/38.PNG",
+    "Duration": 10,
+    "Level": 2,
+    "Language": 1,
+    "WelcomeMessage": "Welcome to the course!",
+    "CongratulationMessage": "Congratulations on completing the course!",
+    "sections": [
+      {
+        "Title": "Introduction",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Introduction to Data Analysis - Pandas",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/38.mp4"
+          }
+        ]
+      },
+      {
+        "Title": "Main Content",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Main Concepts in Data Analysis - Pandas",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/38.mp4"
+          }
+        ]
+      }
+    ],
+    "category_id": 1,
+    "InstructorId": "Nour El-Din",
+    "roadmap_id": 2
+  },
+  {
+    "Title": "CI/CD with Jenkins",
+    "Description": "The course includes a variety of topics and hands-on experiences to ensure practical learning.",
+    "Price": 50.0,
+    "PosterURL": "Images/Courses/39.PNG",
+    "Duration": 15,
+    "Level": 0,
+    "Language": 1,
+    "WelcomeMessage": "Welcome to the course!",
+    "CongratulationMessage": "Congratulations on completing the course!",
+    "sections": [
+      {
+        "Title": "Introduction",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Introduction to CI/CD with Jenkins",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/39.mp4"
+          }
+        ]
+      },
+      {
+        "Title": "Main Content",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Main Concepts in CI/CD with Jenkins",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/39.mp4"
+          }
+        ]
+      }
+    ],
+    "category_id": 4,
+    "InstructorId": "Youssef Ali",
+    "roadmap_id": 8
+  },
+  {
+    "Title": "Docker & Kubernetes for DevOps",
+    "Description": "This course, Docker & Kubernetes for DevOps, is designed to help you build solid foundations and hands-on experience.",
+    "Price": 25.0,
+    "PosterURL": "Images/Courses/24.PNG",
+    "Duration": 15,
+    "Level": 0,
+    "Language": 1,
+    "WelcomeMessage": "Welcome to the course!",
+    "CongratulationMessage": "Congratulations on completing the course!",
+    "sections": [
+      {
+        "Title": "Introduction",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Introduction to Docker & Kubernetes",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/24.mp4"
+          }
+        ]
+      },
+      {
+        "Title": "Main Content",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Main Concepts in Docker & Kubernetes",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/24.mp4"
+          }
+        ]
+      }
+    ],
+    "category_id": 4,
+    "InstructorId": "Laila Hassan",
+    "roadmap_id": 8
+  },
+  {
+    "Title": "Terraform Infrastructure as Code With AWS",
+    "Description": "This course, Terraform Infrastructure as Code, is designed to help you build solid foundations and hands-on experience.",
+    "Price": 57.5,
+    "PosterURL": "Images/Courses/40.PNG",
+    "Duration": 20,
+    "Level": 1,
+    "Language": 1,
+    "WelcomeMessage": "Welcome to the course!",
+    "CongratulationMessage": "Congratulations on completing the course!",
+    "sections": [
+      {
+        "Title": "Introduction",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Introduction to Terraform",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/40.mp4"
+          }
+        ]
+      },
+      {
+        "Title": "Main Content",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Main Concepts in Terraform",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/40.mp4"
+          }
+        ]
+      }
+    ],
+    "category_id": 4,
+    "InstructorId": "Omar Ismail",
+    "roadmap_id": 8
+  },
+  {
+    "Title": "Intermediate CI/CD with Jenkins",
+    "Description": "This course, CI/CD with Jenkins, is designed to help you build solid foundations and hands-on experience.",
+    "Price": 52.5,
+    "PosterURL": "Images/Courses/49.PNG",
+    "Duration": 15,
+    "Level": 1,
+    "Language": 1,
+    "WelcomeMessage": "Welcome to the course!",
+    "CongratulationMessage": "Congratulations on completing the course!",
+    "sections": [
+      {
+        "Title": "Introduction",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Introduction to CI/CD with Jenkins",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/49.mp4"
+          }
+        ]
+      },
+      {
+        "Title": "Main Content",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Main Concepts in CI/CD with Jenkins",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/49.mp4"
+          }
+        ]
+      }
+    ],
+    "category_id": 4,
+    "InstructorId": "Sara Mohamed",
+    "roadmap_id": 8
+  },
+  {
+    "Title": "Terraform Infrastructure as Code",
+    "Description": "This course, Terraform Infrastructure as Code, is designed to help you build solid foundations and hands-on experience.",
+    "Price": 60.0,
+    "PosterURL": "Images/Courses/50.PNG",
+    "Duration": 20,
+    "Level": 2,
+    "Language": 1,
+    "WelcomeMessage": "Welcome to the course!",
+    "CongratulationMessage": "Congratulations on completing the course!",
+    "sections": [
+      {
+        "Title": "Introduction",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Introduction to Terraform",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/50.mp4"
+          }
+        ]
+      },
+      {
+        "Title": "Main Content",
+        "ContentCourse": [
+          {
+            "ContentTitle": "Main Concepts in Terraform",
+            "ContentType": 0,
+            "ContentUrl": "Videos/ContentCourses/50.mp4"
+          }
+        ]
+      }
+    ],
+    "category_id": 4,
+    "InstructorId": "Ahmed Khaled",
+    "roadmap_id": 8
+  }
+]

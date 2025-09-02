@@ -1,0 +1,62 @@
+[
+    {
+        "Name": "Frontend Development",
+        "Description": "A comprehensive roadmap to becoming a front-end web developer, covering front-end technologies.",
+        "PosterURL": "Images/Roadmaps/FrontEnd.PNG",
+        "Category_id": 4
+    },
+    {
+        "Name": "Data Science",
+        "Description": "A roadmap for aspiring data scientists, focusing on data analysis, machine learning, and statistical modeling.",
+        "PosterURL": "Images/Roadmaps/Datascience.PNG",
+        "Category_id": 1
+    },
+    {
+        "Name": "Mobile Development",
+        "Description": "Learn how to develop mobile applications for iOS and Android platforms, including native and cross-platform development.",
+        "PosterURL": "Images/Roadmaps/Mobile.PNG",
+        "Category_id": 4
+    },
+    {
+        "Name": "Cybersecurity",
+        "Description": "A roadmap to understanding cybersecurity principles, ethical hacking, and network security.",
+        "PosterURL": "Images/Roadmaps/CyberSecurity.PNG",
+        "Category_id": 6
+    },
+    {
+        "Name": "Cloud Computing",
+        "Description": "Explore cloud computing concepts, services, and deployment models, including AWS, Azure, and Google Cloud.",
+        "PosterURL": "Images/Roadmaps/CloudComputing.PNG",
+        "Category_id": 5
+    },
+    {
+        "Name": "Game Development",
+        "Description": "A roadmap for game developers, covering game design, programming, and graphics.",
+        "PosterURL": "Images/Roadmaps/Game.PNG",
+        "Category_id": 4
+    },
+    {
+        "Name": "Artificial Intelligence",
+        "Description": "Learn the fundamentals of AI, including machine learning, neural networks, and natural language processing.",
+        "PosterURL": "Images/Roadmaps/AI.PNG",
+        "Category_id": 1
+    },
+    {
+        "Name": "DevOps",
+        "Description": "A roadmap to mastering DevOps practices, including CI/CD, automation, and infrastructure as code.",
+        "PosterURL": "Images/Roadmaps/Devops.PNG",
+        "Category_id": 4
+    },
+    {
+        "Name": "UI/UX Design",
+        "Description": "Understand user interface and user experience design principles, methodologies, and best practices.",
+        "PosterURL": "Images/Roadmaps/UIUX.PNG",
+        "Category_id": 3
+    },
+    {
+        "Name": "Backend Development",
+        "Description": "A roadmap for Backend developers, covering front-end technologies.",
+        "PosterURL": "Images/Roadmaps/Back.PNG",
+        "Category_id": 4
+    }
+]

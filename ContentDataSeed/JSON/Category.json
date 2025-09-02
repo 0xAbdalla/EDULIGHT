@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "AI",
+        "PosterURL": "Images/Categories/AI.PNG"
+    },
+    {
+        "Name": "Business",
+        "PosterURL": "Images/Categories/Business.PNG"
+    },
+    {
+        "Name": "Design",
+        "PosterURL": "Images/Categories/Design.PNG"
+    },
+    {
+        "Name": "Development",
+        "PosterURL": "Images/Categories/Development.PNG"
+    },
+    {
+        "Name": "Networking",
+        "PosterURL": "Images/Categories/Networking.PNG"
+    },
+    {
+        "Name": "Security",
+        "PosterURL": "Images/Categories/Security.PNG"
+    }
+]
